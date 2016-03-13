@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="60dp" >
+
+    <Row>
+        <Key android:codes="2693" android:keyLabel="અ" android:keyEdgeFlags="left" />
+        <Key android:codes="2694" android:keyLabel="આ" />
+        <Key android:codes="2695" android:keyLabel="ઇ" />
+        <Key android:codes="2696" android:keyLabel="ઈ" />
+        <Key android:codes="2698" android:keyLabel="ઊ" />
+        <Key android:codes="2703" android:keyLabel="એ" />
+        <Key android:codes="2704" android:keyLabel="ઐ" />
+        <Key android:codes="2707" android:keyLabel="ઓ" />
+        <Key android:codes="2693,2690" android:keyLabel="અં" />
+        <Key android:codes="2693,2691" android:keyLabel="અઃ" />
+        <Key android:codes="48" android:keyLabel="0" android:keyEdgeFlags="right"/>
+
+    <Row>
+
+        <Key android:codes="2709" android:keyLabel="ક" android:keyEdgeFlags="left" />
+        <Key android:codes="2710" android:keyLabel="ખ" />
+        <Key android:codes="2711" android:keyLabel="ગ" />
+        <Key android:codes="2712" android:keyLabel="ઘ" />
+        <Key android:codes="2714" android:keyLabel="ચ" />
+        <Key android:codes="2715" android:keyLabel="છ" />
+        <Key android:codes="2716" android:keyLabel="જ" />
+        <Key android:codes="2717" android:keyLabel="ઝ" />
+        <Key android:codes="2719" android:keyLabel="ટ" />
+        <Key android:codes="2720" android:keyLabel="ઠ" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+
+        <Key android:codes="2721" android:keyLabel="ડ" android:keyEdgeFlags="left"/>
+        <Key android:codes="2722" android:keyLabel="ઢ" />
+        <Key android:codes="2725" android:keyLabel="થ" />
+        <Key android:codes="2726" android:keyLabel="દ" />
+        <Key android:codes="2727" android:keyLabel="ધ" />
+        <Key android:codes="2728" android:keyLabel="ન" />
+        <Key android:codes="2730" android:keyLabel="પ" />
+        <Key android:codes="2731" android:keyLabel="ફ" />
+        <Key android:codes="2732" android:keyLabel="બ" />
+        <Key android:codes="35,64" android:keyLabel="\# \@" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="-1" android:keyLabel="CAPS" android:keyEdgeFlags="left"/>
+        <Key android:codes="2736" android:keyLabel="ર" />
+        <Key android:codes="2738" android:keyLabel="લ" />
+        <Key android:codes="2741" android:keyLabel="વ" />
+        <Key android:codes="2742" android:keyLabel="શ" />
+        <Key android:codes="2743" android:keyLabel="ષ" />
+        <Key android:codes="2744" android:keyLabel="સ" />
+        <Key android:codes="2745" android:keyLabel="હ" />
+        <Key android:codes="46" android:keyLabel="."/>
+        <Key android:codes="63,33,58" android:keyLabel="\? ! :" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:codes="44" android:keyLabel="," android:keyWidth="10%p"  android:keyEdgeFlags="left"/>
+        <Key android:codes="47" android:keyLabel="/" android:keyWidth="10%p" />
+        <Key android:codes="32" android:keyLabel="SPACE" android:keyWidth="40%p" android:isRepeatable="true"/>
+        <Key android:codes="-5" android:keyLabel="DEL" android:keyWidth="20%p" android:isRepeatable="true"/>
+        <Key android:codes="-4" android:keyLabel="DONE" android:keyWidth="20%p" android:keyEdgeFlags="right"/>
+    </Row>
+    </Row>
+</Keyboard>

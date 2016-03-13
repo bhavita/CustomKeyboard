@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomKeyboard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_keyboard">MyKeyboard</string>
+    <string name="sybtype_en_US">English (US)</string>
+</resources>
