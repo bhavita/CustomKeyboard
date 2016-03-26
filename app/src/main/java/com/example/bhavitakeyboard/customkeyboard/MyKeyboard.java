@@ -71,6 +71,7 @@ public class MyKeyboard extends InputMethodService
                 ic.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_ENTER));
                 break;
             default:
+                
                 char code = (char) primaryCode;
                 if(Character.isLetter(code) && caps) {
                     code = Character.toUpperCase(code);
