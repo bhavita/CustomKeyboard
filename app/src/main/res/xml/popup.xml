@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="100%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="60dp"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    >
+
+    <Row>
+        <Key android:codes="2325" android:keyLabel="क" android:keyEdgeFlags="left"/>
+        <Key android:codes="2366" android:keyLabel="का" />
+        <Key android:codes="2367" android:keyLabel="कि"/>
+        <Key android:codes="2368" android:keyLabel="की"/>
+        <Key android:codes="2369" android:keyLabel="कु" android:keyEdgeFlags="right"/>
+        </Row>
+    <Row>
+        <Key android:codes="2370" android:keyLabel="कू" android:keyEdgeFlags="left"/>
+        <Key android:codes="2375" android:keyLabel="के"/>
+        <Key android:codes="2376" android:keyLabel="कै"/>
+        <Key android:codes="2379" android:keyLabel="को"/>
+        <Key android:codes="2324" android:keyLabel="कौ" android:keyEdgeFlags="right"/>
+    </Row>
+
+
+
+
+</Keyboard>
