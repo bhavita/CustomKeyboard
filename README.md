@@ -11,11 +11,11 @@ This is the source code for Design 3 As found on [ILIT Design 3](https://github.
 
 ### Work In Progress
 
-![Main]({{site.baseurl}}/temp/images/Screenshot_2016-05-11-00-47-08[1].png)
+![pop-up](CustomKeyboard/temp/images/sc/Screenshot_2016-05-11-00-08-38[1].png)
 
 
 
-![Pop UP]({{site.baseurl}}temp/images/Screenshot_2016-05-11-00-08-38%5B1%5D.png)
+![Main](CustomKeyboard/temp/images/sc/Screenshot_2016-05-11-00-55-36[2].png)
 
 ### Version
 1.o.1
