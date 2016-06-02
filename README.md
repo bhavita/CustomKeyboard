@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bhavita/CustomKeyboard.svg?branch=PopUpDesign3)](https://travis-ci.org/bhavita/CustomKeyboard)
+
 # INDIC LANGUAGE  INPUT TOOL
 
 This is custom keyboard made for ILIT
